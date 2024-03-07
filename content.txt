@@ -1,0 +1,7 @@
+React Component
+A component is nothing but a function
+
+Rules
+1. First letter of the function name should always be in Capital Letter
+2. A component function should always return something
+3. A component should always return a single HTML element
