@@ -1,3 +1,19 @@
+Callback
+Promise
+Async Await
+
+ES5 vs ES6
+Template literals
+Spread Operator
+Rest Operator
+Object Detc
+Array Detc
+Arrow Functions
+
+NPM Demo
+explore npmjs.com
+How to select a Package
+
 React Component
 A component is nothing but a function
 
